@@ -189,7 +189,7 @@ body {
   font-size: 14px;
   line-height: 2;
   color: #555;
-  background: #fff;
+  background: #ebeef5;
 }
 @media (max-width: 767px) {
   body {
@@ -277,13 +277,13 @@ p {
   margin: 0 0 25px 0;
 }
 a {
-  color: #0684bd;
+  color: #555;
   text-decoration: none;
   border-bottom: 1px solid #999;
   word-wrap: break-word;
 }
 a:hover {
-  color: #222;
+  color: #1da1f2;
   border-bottom-color: #222;
 }
 ul {
@@ -382,7 +382,7 @@ dd {
 }
 .highlight a,
 .gist a {
-  color: #222 !important;
+  color: #1da1f2 !important;
   text-decoration: none !important;
 }
 .affix.affix.affix {
@@ -1285,7 +1285,7 @@ pre .javascript .function {
   margin-top: 50px;
 }
 .post-more-link .btn {
-  color: #0684bd;
+  color: #555;
   font-size: 14px;
   background: transparent;
   border-radius: 0;
@@ -1317,11 +1317,11 @@ pre .javascript .function {
   display: inline-block;
   line-height: 25px;
   font-size: 14px;
-  color: #0684bd;
+  color: #555;
   border-bottom: none;
 }
 .post-nav-item a:hover {
-  color: #222;
+  color: #1da1f2;
   border-bottom: none;
 }
 .post-nav-item a:active {
@@ -1521,7 +1521,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff9cba;
+  background: #730ef4;
 }
 .links-of-blogroll {
   font-size: 13px;
